@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYN2IlOENHT9Uv2dnvNIxWjBXcEXt8zGRhv65toWG3rVqRPC1S9ek9WRZ8zpWmz5jsxd/pSLmqkqDbUeO3kyCw==",
+  "success": true,
+  "projectFilePath": "\\\\tavor\\student\\5y\\ירדן פולק\\final_project\\Book-Topia\\Server\\bll\\bll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k15\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\k15\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
